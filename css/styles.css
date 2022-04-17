@@ -824,7 +824,7 @@ a.logo.link {
 }
 
 .contact-form-checkbox:checked+.contact-form-checkbox-label::before {
-
+content: "";
   background-image: url(/images/icon\ check.svg);
   outline: none;
 }
